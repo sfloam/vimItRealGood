@@ -4,4 +4,4 @@ set copyindent
 set shiftwidth=4
 set smarttab
 set showmatch
-set mouse=a# vimItRealGood
+set mouse=a
